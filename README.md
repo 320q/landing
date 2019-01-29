@@ -1,0 +1,2 @@
+# Kurs landinga
+> node -v
